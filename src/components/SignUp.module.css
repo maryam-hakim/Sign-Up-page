@@ -142,3 +142,15 @@ button:hover{
 .buttons a:hover{
     color: #004aaa;
 }
+
+@media (max-width: 440px){
+    .formcontainer{
+        padding: 20px;
+        margin: 50px 20px;
+        width: 90%;
+    }
+
+    .fieldInput{
+        width: 90%;
+    }
+}
